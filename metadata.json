@@ -1,0 +1,5 @@
+{
+  "name": "Kalkulator Seller TikTok",
+  "description": "Sebuah aplikasi web untuk menghitung target ROI untuk kampanye TikTok, berdasarkan harga produk, biaya, dan margin keuntungan yang diinginkan.",
+  "requestFramePermissions": []
+}
